@@ -22,3 +22,5 @@ We created a  web based application “starCorp” using HTML, CSS, Javascript, 
 4) User Friendly Environment.
 
 
+# Note
+You have to take all the data and take into the one folder after extracting it and name the folder SIH.In this project i had used a PHP Framwork Laravel.
